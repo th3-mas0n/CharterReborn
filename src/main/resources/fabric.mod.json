@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "charter",
+  "version": "${version}",
+
+  "name": "Charter",
+  "description": "Not compatibe with charter",
+  "authors": [
+    "Arathain",
+    "Chryseon"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": "https://github.com/Arathain/charter"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/charter/icon.png",
+
+  "environment": "*",
+  "accessWidener" : "charter.accesswidener",
+  "entrypoints": {
+    "main": [
+      "net.arathain.charter.Charter"
+    ],
+    "client": [
+      "net.arathain.charter.CharterClient"
+    ],
+    "cardinal-components-world": [
+      "net.arathain.charter.components.CharterComponents"
+    ],
+    "cardinal-components-entity": [
+      "net.arathain.charter.components.CharterComponents"
+    ]
+  },
+  "mixins": [
+    "charter.mixins.json"
+  ],
+  "custom": {
+    "cardinal-components": [
+      "charter:charter_key",
+      "charter:owner"
+    ]
+  },
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.19.x",
+    "java": ">=17"
+  }
+}

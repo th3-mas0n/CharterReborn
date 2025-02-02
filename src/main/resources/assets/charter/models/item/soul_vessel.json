@@ -1,0 +1,13 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "charter:item/soul_vessel"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "charter:item/soul_vessel_filled"
+    }
+  ]
+}
+
