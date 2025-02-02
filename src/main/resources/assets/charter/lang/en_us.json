@@ -1,0 +1,21 @@
+{
+  "item.charter.contract": "§eContract",
+  "item.charter.soul_vessel": "§eSoul Vessel",
+  "item.charter.merchant_crest": "§eMerchant's Crest",
+  "itemGroup.charterexp.chartert": "Charter",
+  "item.charter.eternal_seal": "§eEternal Pact",
+  "effect.charter.eternal_debt": "§eEternal Indenture",
+  "effect.charter.repercussion": "§eRepercussion",
+  "effect.charter.soul_strain": "§eSoul Strain",
+  "block.charter.pact_press": "§ePact Vessel",
+  "block.charter.charter_soul_vessel": "§eSoul Vessel",
+  "item.charter.dawnbreaker": "§eDawnbreaker",
+  "item.charter.dawnbreaker.tooltip": "Glows and is stronger during the day",
+  "block.charter.charter_vessel": "§eCharter Vessel",
+  "block.charter.monolith": "§eMonolith",
+  "block.charter.charter_stone": "§eCharter Stone",
+  "block.charter.divine_enclosure": "§eDivine Enclosure",
+  "block.charter.waystone": "§eWaystone",
+  "item.charter.apex_focus": "§eApex Eye",
+  "block.charter.swapper": "§eSoul Swapper"
+}

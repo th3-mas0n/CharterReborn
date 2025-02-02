@@ -1,0 +1,85 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [56, 46],
+	"textures": {
+		"0": "charter:block/divine_enclosure",
+		"particle": "minecraft:block/deepslate_brick"
+	},
+	"elements": {
+		"from": [
+			2,
+			0,
+			2
+		],
+		"to": [
+			14,
+			32,
+			14
+		],
+		"rotation": {
+			"angle": 0,
+			"axis": "y",
+			"origin": [
+				2,
+				0,
+				2
+			]
+		},
+		"faces": {
+			"north": {
+				"uv": [
+					6,
+					0,
+					7.5,
+					4
+				],
+				"texture": "#0"
+			},
+			"east": {
+				"uv": [
+					6,
+					0,
+					7.5,
+					4
+				],
+				"texture": "#0"
+			},
+			"south": {
+				"uv": [
+					6,
+					0,
+					7.5,
+					4
+				],
+				"texture": "#0"
+			},
+			"west": {
+				"uv": [
+					6,
+					0,
+					7.5,
+					4
+				],
+				"texture": "#0"
+			},
+			"up": {
+				"uv": [
+					7.5,
+					5.375,
+					6,
+					3.875
+				],
+				"texture": "#0"
+			},
+			"down": {
+				"uv": [
+					7.5,
+					5.375,
+					6,
+					6.875
+				],
+				"texture": "#0"
+			}
+		}
+	}
+}
